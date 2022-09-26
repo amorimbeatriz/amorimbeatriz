@@ -1,9 +1,13 @@
 ### Olá, eu sou a Beatriz Amorim!! 👋
 
+- 💻 Devenvolvedora Full Stack
+- 🎂 20 anos
+- 😊 Ela/Dela
+
 <div align="center">
   <a href="https://github.com/beatrizamorim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amorimbeatriz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimbeatriz&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amorimbeatriz&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amorimbeatriz&layout=compact&langs_count=7&theme=aura"/>
 </div>
   
 <div>
@@ -17,7 +21,7 @@
   <img align="center" alt="Bea-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Bea-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="right" alt="Bea-pic" height="150" style="border-radius:50px;"
-  src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  src="https://cdn.discordapp.com/attachments/1024052354334609451/1024062179105841162/338224_emVXJ0V12.png">
 </div>
   
   ##
