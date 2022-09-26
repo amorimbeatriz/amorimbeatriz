@@ -1,6 +1,6 @@
 ## Olá, eu sou a Beatriz Amorim!! 👋
 
-- 💻 Devenvolvedora Full Stack
+- 💻 Desenvolvedora Full Stack
 - 🎂 20 anos
 - 😊 Ela/Dela
 
